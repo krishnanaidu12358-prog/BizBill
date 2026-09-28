@@ -1,0 +1,36 @@
+name: bizflow_app
+description: BizBill - Easy Billing. Better Business.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  provider: ^6.1.2
+  shared_preferences: ^2.3.3
+  intl: ^0.19.0
+  url_launcher: ^6.3.1
+  image_picker: ^1.1.2
+  http_parser: ^4.1.2
+  fl_chart: ^1.2.0
+  pdf: ^3.13.1
+  printing: ^5.15.1
+  share_plus: ^10.1.4
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^6.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/
+

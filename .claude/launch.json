@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bizflow-web-preview",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:/Users/Lenovo/AppData/Local/Temp/claude/C--Users-Lenovo-Desktop-Kittu-Business/576b57b7-f4a9-4f04-a622-c74a2e23de65/scratchpad/serve.js",
+        "C:/Users/Lenovo/Desktop/Kittu Business/Frontend/build/web",
+        "5173"
+      ],
+      "port": 5173
+    }
+  ]
+}

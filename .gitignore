@@ -1,0 +1,29 @@
+# .NET
+API/**/bin/
+API/**/obj/
+*.user
+
+# Flutter / Dart
+Frontend/.dart_tool/
+Frontend/build/
+Frontend/.flutter-plugins
+Frontend/.flutter-plugins-dependencies
+Frontend/android/.gradle/
+Frontend/android/local.properties
+Frontend/ios/Pods/
+Frontend/ios/.symlinks/
+Frontend/**/Flutter/Generated.xcconfig
+Frontend/**/Flutter/flutter_export_environment.sh
+Frontend/**/GeneratedPluginRegistrant.*
+
+# Editors / OS
+.vs/
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
+
+# WhatsApp gateway - linked-device keys are as sensitive as a password
+WhatsAppGateway/node_modules/
+WhatsAppGateway/sessions/

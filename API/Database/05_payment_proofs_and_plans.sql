@@ -1,0 +1,1 @@
+-- Replaced by 04_preferences.sql / 05_payment_proofs.sql. This file is no longer used - delete it.

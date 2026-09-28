@@ -1,0 +1,10 @@
+{
+  "port": 5055,
+  "host": "127.0.0.1",
+  "apiUrl": "http://localhost:5000",
+  "secret": "2ospy1f3j8ngi60lxc7mqubek5h9dwztr4av",
+  "countryCode": "91",
+  "sessionsDir": "sessions",
+  "sendGapMs": 2500,
+  "logLevel": "info"
+}

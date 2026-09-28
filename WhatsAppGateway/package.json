@@ -1,0 +1,17 @@
+{
+  "name": "bizflow-whatsapp-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BizFlow WhatsApp gateway - links each shop's WhatsApp by QR",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "baileys": "^7.0.0-rc14",
+    "express": "^5.2.1",
+    "pino": "^10.3.1",
+    "qrcode": "^1.5.4"
+  }
+}
